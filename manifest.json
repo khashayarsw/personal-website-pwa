@@ -1,0 +1,26 @@
+{
+  "short_name": "Khashayar PWA",
+  "name": "My personal website",
+  "icons": [
+    {
+      "src": "public/img/personal-logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "public/img/personal-logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "public/img/personal-logo-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "orientation" : "portrait",
+  "theme_color": "#fdc13c",
+  "background_color": "#313535"
+}
