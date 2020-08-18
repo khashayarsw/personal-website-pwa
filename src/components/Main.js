@@ -45,16 +45,18 @@ class Main extends Component {
         <div data-aos="fade-up" data-aos-once="true">
           <pre>{`myWorks = {
           websites : {
-            filimobox: { link : "https://filimo.com/filimobox" } ,
+            filimoBox: { link : "https://filimo.com/filimobox" } ,
             aparatLive: { link : "https://aparat.com/liveevent" } ,
             aparatIncome: { link : "https://aparat.com/income" } ,
             aparatRepublisher: { link : "https://aparat.com/income/republisher" } ,
             televika: { link : "https://televika.com/welcome", needVpn : true } ,
-            itshahr : { link : "itshahr.saba-api.ir" } ,
-            indecision-App : { type : "React" , link : "https://khashayarsw.github.io/Indecision-App" } ,
+            itShahr : { link : "itshahr.saba-api.ir" } ,
+            behran : { link : "http://behran.saba-api.ir" } ,
+            sabaIdeaV2 : { link : "http://v2.sabaidea.com" } ,
+            indecisionApp : { type : "React" , link : "https://khashayarsw.github.io/Indecision-App" } ,
             lego : { type : "React" , link : "https://lego.now.sh" } , 
             netflix : { type " "React" , link : "https://netflix-kappa.now.sh" } ,
-            login-panel : { type " "React" , link : "https://khashayarsw.github.io/Login-Panel/" } ,
+            loginPanel : { type " "React" , link : "https://khashayarsw.github.io/Login-Panel/" } ,
           },
           packages : {
             @khashi/tiny : { link : "https://www.npmjs.com/package/@khashi/tiny" } ,
