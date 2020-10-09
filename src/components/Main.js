@@ -46,6 +46,8 @@ class Main extends Component {
           <pre>{`myWorks = {
           websites : {
             filimoBox: { link : "https://filimo.com/filimobox" } ,
+            filimoBoxGuarantee: { link : "https://www.filimo.com/filimobox/guarantee" } ,
+            aparatKidsWeek99: { link : "https://aparat.com/kids/kidsweek99" } ,
             aparatLive: { link : "https://aparat.com/liveevent" } ,
             aparatIncome: { link : "https://aparat.com/income" } ,
             aparatRepublisher: { link : "https://aparat.com/income/republisher" } ,
