@@ -86,7 +86,7 @@ module.exports = function (_env, argv) {
       extensions: [".js", ".jsx"],
     },
     devServer: {
-      port: 2020,
+      port: 2030,
       historyApiFallback: true,
       overlay: true,
     },

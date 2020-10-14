@@ -47,6 +47,7 @@ class Main extends Component {
           websites : {
             filimoBox: { link : "https://filimo.com/filimobox" } ,
             filimoBoxGuarantee: { link : "https://www.filimo.com/filimobox/guarantee" } ,
+            filimoSibche: { link : "https://www.filimo.com/sibche" } ,
             aparatKidsWeek99: { link : "https://aparat.com/kids/kidsweek99" } ,
             aparatLive: { link : "https://aparat.com/liveevent" } ,
             aparatIncome: { link : "https://aparat.com/income" } ,
@@ -54,12 +55,11 @@ class Main extends Component {
             televika: { link : "https://televika.com/welcome", needVpn : true } ,
             itShahr : { link : "itshahr.saba-api.ir" } ,
             behran : { link : "http://behran.saba-api.ir" } ,
+            bimeTejarat : { link : "http://bimetejarat.saba-api.ir" } ,
+            202 : { link : "http://202.saba-api.ir" } ,
+            zarGroup: { link : "http://www.italiandinner.zargroup.ir/" } ,
             sabaIdeaV2 : { link : "http://v2.sabaidea.com" } ,
-            indecisionApp : { type : "React" , link : "https://khashayarsw.github.io/Indecision-App" } ,
-            lego : { type : "React" , link : "https://lego.now.sh" } , 
-            netflix : { type " "React" , link : "https://netflix-kappa.now.sh" } ,
-            loginPanel : { type " "React" , link : "https://khashayarsw.github.io/Login-Panel/" } ,
-          },
+                     },
           packages : {
             @khashi/tiny : { link : "https://www.npmjs.com/package/@khashi/tiny" } ,
             @khashi/stringer : { link : "https://www.npmjs.com/package/@khashi/stringer" }
