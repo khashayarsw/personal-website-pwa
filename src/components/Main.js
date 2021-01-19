@@ -50,6 +50,7 @@ class Main extends Component {
             filimoSibche: { link : "https://www.filimo.com/sibche" } ,
             aparatBoost: { link : "https://www.aparat.com/boost" } ,
             aparatKidsWeek99: { link : "https://www.aparat.com/kids/kidsweek99" } ,
+            aparatNiaShow: { link : "https://www.aparat.com/kids/niashow" } ,
             aparatLive: { link : "https://www.aparat.com/liveevent" } ,
             aparatIncome: { link : "https://www.aparat.com/income" } ,
             aparatRepublisher: { link : "https://www.aparat.com/income/republisher" } ,
