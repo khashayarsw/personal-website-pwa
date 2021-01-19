@@ -57,7 +57,7 @@ class Main extends Component {
             televika: { link : "https://www.televika.com/welcome", needVpn : true } ,
             itShahr : { link : "www.itshahr.saba-api.ir" } ,
             behran : { link : "http://www.behran.saba-api.ir" } ,
-            bimeTejarat : { link : "http://www.bimetejarat.saba-api.ir" } ,
+            bimeTejarat : { link : "http://landing.tejaratinsurance.com" } ,
             202 : { link : "http://www.202.saba-api.ir" } ,
             zarGroup: { link : "http://www.italiandinner.zargroup.ir/" } ,
             sabaIdeaV2 : { link : "http://www.v2.sabaidea.com" } ,
