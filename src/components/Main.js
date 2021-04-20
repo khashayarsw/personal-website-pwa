@@ -57,6 +57,7 @@ class Main extends Component {
             aparatIncome: { link : "https://www.aparat.com/income" } ,
             aparatChefCup: { link : "https://www.aparat.com/chefcup" } ,
             aparatGameSeason3: { link : "https://www.aparat.com/game/season3" } ,
+            aparatInfo99: { link : "https://www.aparat.com/info99" } ,
             televikaDvd: { link : "https://www.televika.com/dvd", needVpn : true } ,
             televikaWelcome: { link : "https://www.televika.com/welcome", needVpn : true } ,
             itShahr : { link : "www.itshahr.saba-api.ir" } ,
