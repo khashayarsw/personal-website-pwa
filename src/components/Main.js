@@ -61,6 +61,7 @@ class Main extends Component {
             aparatEuro2020: { link : "https://www.aparat.com/euro2020" } ,
             aparatEuro2020Match: { link : "https://www.aparat.com/euro2020/match" } ,
             aparatAdvertise: { link : "https://www.aparat.com/advertise" } ,
+            zabiaBox: { link : "https://www.zabia.com/zabiabox" } ,
             televikaDvd: { link : "https://www.televika.com/dvd", needVpn : true } ,
             televikaWelcome: { link : "https://www.televika.com/welcome", needVpn : true } ,
             sabaideaCharity: { link : "https://www.sabaidea.com/charity" } ,
