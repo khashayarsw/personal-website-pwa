@@ -57,7 +57,7 @@ class Main extends Component {
             aparatIncome: { link : "https://www.aparat.com/income" } ,
             aparatChefCup: { link : "https://www.aparat.com/chefcup" } ,
             aparatGameSeason3: { link : "https://www.aparat.com/game/season3" } ,
-            aparatInfo99: { link : "https://www.aparat.com/info99" } ,
+            aparatInfo99: { link : "https://www.aparat.com/info00" } ,
             aparatEuro2020: { link : "https://www.aparat.com/euro2020" } ,
             aparatEuro2020Match: { link : "https://www.aparat.com/euro2020/match" } ,
             aparatAdvertise: { link : "https://www.aparat.com/advertise" } ,
