@@ -1,0 +1,7 @@
+- filimoSibche: { link : "https://www.filimo.com/sibche" }
+- aparatBoost: { link : "https://www.aparat.com/boost" }
+- sabaideaCharity: { link : "https://www.sabaidea.com/charity" }
+- itShahr : { link : "www.itshahr.saba-api.ir" }
+- sabaIdeaV2 : { link : "http://www.v2.sabaidea.com" }
+
+
