@@ -23,7 +23,7 @@ class Main extends Component {
           <div className="avatar" data-aos="fade-down"></div>
           <div data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">
             <p className="panel__desc">Hello, I'm Khashayar</p>
-            <p className="panel__desc">Front-End Engineer</p>
+            <p className="panel__desc">Software Developer</p>
             <p className="panel__desc">MyEmail: khashayarmahg@gmail.com</p>
             <span className="panel__social">
               <a href="https://github.com/khashayarsw" target="_blank">
@@ -44,11 +44,13 @@ class Main extends Component {
         </div>
         <div data-aos="fade-up" data-aos-once="true">
           <pre>{`myWorks = {
-          websites : {
+          landings : {
             filimoShowRoom: { link : "https://www.filimo.com/showroom" } ,
             filimoBox: { link : "https://www.filimo.com/filimobox" } ,
+            filimoB2B: { link : "https://www.filimo.com/b2b" } ,
             filimoBoxGuarantee: { link : "https://www.filimo.com/filimobox/guarantee" } ,
             filimoInfo99: { link : "https://www.filimo.com/info99v2" } ,
+            filimoStick: { link : "https://www.filimo.com/filimostick" } ,
             aparatMoalemShow: { link : "https://www.aparat.com/moalemshow" } ,
             aparatApp: { link : "https://www.aparat.com/app" } ,
             aparatLivePlus: { link : "https://www.aparat.com/liveplus" } ,
@@ -63,6 +65,7 @@ class Main extends Component {
             aparatEuro2020Match: { link : "https://www.aparat.com/euro2020/match" } ,
             aparatAdvertise: { link : "https://www.aparat.com/advertise" } ,
             aparatGameRuby: { link : "https://www.aparat.com/game/ruby" } ,
+            aparatVLogFestival1401: { link : "https://www.aparat.com/vlog1401" } ,
             zabiaBox: { link : "https://www.zabia.com/zabiabox" } ,
             televikaDvd: { link : "https://www.televika.com/dvd", needVpn : true } ,
             televikaWelcome: { link : "https://www.televika.com/welcome", needVpn : true } ,
@@ -74,6 +77,12 @@ class Main extends Component {
           packages : {
             @khashi/tiny : { link : "https://www.npmjs.com/package/@khashi/tiny" } ,
             @khashi/stringer : { link : "https://www.npmjs.com/package/@khashi/stringer" }
+          }
+          projects: {
+            aparatReact,
+            aparatKidsReact,
+            filimoFifa2022React,
+            aparatSportReactNativeTvApp
           }
         }`}</pre>
         </div>
