@@ -20,7 +20,7 @@ class Main extends Component {
     return (
       <Fragment>
         <div className="panel panel--margin-top">
-          <div className="avatar" data-aos="fade-down"></div>
+          <div id="logo" className="avatar" data-aos="fade-down"></div>
           <div data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">
             <p className="panel__desc">Hello, I'm Khashayar</p>
             <p className="panel__desc">Software Developer</p>
